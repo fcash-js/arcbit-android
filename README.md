@@ -1,6 +1,6 @@
-ArcBit
+Fcash
 ===========
-Bitcoin wallet for Android. First mobile wallet to support reusable/stealth addresses. Also offers cold wallet storage and offline spending. Visit http://www.arcbit.io/ for more information.
+Fcash wallet for Android. First mobile wallet to support reusable/stealth addresses. Also offers cold wallet storage and offline spending. Visit http://www.arcbit.io/ for more information.
 
 #####Play store Link:
 https://play.google.com/store/apps/details?id=com.arcbit.arcbit
